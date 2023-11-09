@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @li0217codeninja
-- 👀 I’m interested in AIML
-- 🌱 I’m currently learning DL
-- 💞️ I’m looking to collaborate on DL 
+- 👀 I’m interested in AIML in biomoedicl field
+- 🌱 I’m currently developing computer vision models for biomedical images 
+- 💞️ I’m looking to collaborate on projects related to cancer early detection 
 - 📫 How to reach me ...
 
 <!---
