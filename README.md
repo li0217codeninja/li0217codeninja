@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @li0217codeninja
-- 👀 I’m interested in AIML in biomoedicl field
-- 🌱 I’m currently developing computer vision models for biomedical images 
-- 💞️ I’m looking to collaborate on projects related to cancer early detection 
+- 👀 I’m interested in AIML & signal processing in biomedical engineering field
+- 🌱 I’m currently developing computer vision model for digital histology images from breast cancer patients
+- 💞️ I’m looking to collaborate on projects related to cancer early detection, health sensing
 - 📫 How to reach me ...
 
 <!---
